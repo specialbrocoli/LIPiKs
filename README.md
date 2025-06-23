@@ -78,4 +78,10 @@ npm run install
 - ⌨ [react-typed](https://www.npmjs.com/package/react-typed)
 - 🎨 [Tailwind CSS](https://tailwindcss.com/)
 
+## 🤝 Contributing
+
+### Submit a pull request
+
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
+
 Made with ❤️ by [specialbrocoli](https://www.github.com/specialbrocoli/)
